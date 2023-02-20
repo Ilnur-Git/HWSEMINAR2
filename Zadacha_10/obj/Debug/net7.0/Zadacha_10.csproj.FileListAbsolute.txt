@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.exe
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.deps.json
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.runtimeconfig.json
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.dll
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.pdb
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.AssemblyInfo.cs
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.dll
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\refint\Zadacha_10.dll
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.pdb
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.genruntimeconfig.cache
+C:\Users\1\Desktop\блок схемы GB\HWSeminar2\Zadacha_10\obj\Debug\net7.0\ref\Zadacha_10.dll
